@@ -11,13 +11,13 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 |SRS Documentation| Software Requirements Specification|
 |---|---|
 |README Link|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Software%20Requirements%20Specification(SRS)/README.md">Click To View</a>|
-|View/Download As PDF|Add Link|
+|View/Download As PDF|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Software%20Requirements%20Specification(SRS)/Handwritten%20Multiple%20Digits%20Recognizer-%20Project%20SRS.pdf">Click To View</a>|
 
 |Code Files For Project| 2 Modules + 1 Model|
 |---|---|
-|GUI Module|Add Link|
-|Train_Digit_Recognizer|Add Link|
-|mnist.h5 Trained Model|Add Link|
+|GUI Module|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/GUI.py">View Code</a>|
+|Train_Digit_Recognizer|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/train_digit_recognizer.py">View Code</a>|
+|mnist.h5 Trained Model|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/mnist.h5">Saved Model</a>|
 
 |Complete Code Explanation|Total Modules = 2|
 |---|---|
