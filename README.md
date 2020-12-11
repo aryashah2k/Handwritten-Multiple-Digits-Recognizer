@@ -24,6 +24,16 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 |GUI Module|Click to view Explanation|
 |Train_Digit_Recognizer Module|Click to view Explanation|
 
+## How To Use The Project?/Project Installation Guide
+
+<To Be Added>
+
+## Project Demonstration
+
+The following GIF depicts how the project works covering all its functionalities!
+
+<GIF To Be Added>
+
 <!-- CONTRIBUTING -->
 ## How To Contribute?
 ### Contributing
