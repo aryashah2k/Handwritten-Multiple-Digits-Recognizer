@@ -3,3 +3,19 @@
 
 ## Introduction
 Hello everyone👋, and welcome to this amazing repository which maintains all the code + documentation for the project Handwritten Multiple Digits Recognizer which was created during the third semester of my sophomore year at NMIMS University, Mukesh Patel School Of Technology Management And Engineering, Mumbai.
+
+|SRS Documentation| Software Requirements Specification|
+|---|---|
+|README Link|Add Link|
+|View/Download As PDF|Add Link|
+
+|Code Files For Project| 2 Modules + 1 Model|
+|---|---|
+|GUI Module|Add Link|
+|Train_Digit_Recognizer|Add Link|
+|mnist.h5 Trained Model|Add Link|
+
+|Complete Code Explanation|Total Modules = 2|
+|---|---|
+|GUI Module|Click to view Explanation|
+|Train_Digit_Recognizer Module|Click to view Explanation|
