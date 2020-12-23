@@ -26,13 +26,13 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 
 ## How To Use The Project?/Project Installation Guide
 
-<To Be Added>
+To Be Added Soon...
 
 ## Project Demonstration
 
 The following GIF depicts how the project works covering all its functionalities!
 
-<GIF To Be Added>
+To Be Added Soon...
 
 <!-- CONTRIBUTING -->
 ## How To Contribute?
