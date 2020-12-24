@@ -24,19 +24,19 @@
 
 ### 6. The below function allows the user to draw digits with the help of the mouse or trackpad on the drawing area of the software or what we have defined as the canvas.
 
-![GUI 6]()
+![GUI 6](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/GUI%206.png)
 
 ### 7. The below function creates the main functionality of the software that is the prediction of the digits that the user draws on the canvas
 
-![GUI 7]()
+![GUI 7](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/GUI%207.png)
 
 ### 8. Here the additional functionality of retrieving the last recognized digit frame and saving it in the directory folder of the software system
 
-![GUI 8]()
+![GUI 8](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/GUI%208.png)
 
 ### 9. The below function creates the Feedback button whereby the user can click and redirect to the browser window with a feedback form to fill about their experience regarding this Digit Recognition System Software.
 
-![GUI 9]()
+![GUI 9](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/GUI%209.png)
 
 ### 10. Below lines of code depict the creation of buttons for the system where the height, width, text and alignment of the button on the software system.
 
