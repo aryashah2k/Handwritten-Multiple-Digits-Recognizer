@@ -21,8 +21,12 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 
 |Complete Code Explanation|Total Modules = 2|
 |---|---|
-|GUI Module|Click to view Explanation|
-|Train_Digit_Recognizer Module|Click to view Explanation|
+|GUI Module|<a href="https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/Explanation%20-%20GUI%20Module.md">Click to view Explanation</a>|
+|Train_Digit_Recognizer Module|<a href="">Click to view Explanation</a>|
+
+
+
+
 
 ## How To Use The Project?/Project Installation Guide
 
