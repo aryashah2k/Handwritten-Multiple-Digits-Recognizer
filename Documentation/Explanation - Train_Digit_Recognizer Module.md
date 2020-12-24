@@ -17,12 +17,12 @@
 
 ### 4. After the implementation of the algorithm here the dataset is being resized and converted in the right format and assigned to the right parts of the datstore namely train, and test.
 
-![Train 4]()
+![Train 4](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/Train%204.png)
 
 ### 5. Finally, the model is compiled and optimized before we move on to save the model which would be used by the next module of our project code.
 
-![Train 5]()
+![Train 5](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/Train%205.png)
 
 ### 6. Finally the datastore is saved as an h5 file format which shall be called by our GUI Module of the Digit Recognition System project.
 
-![Train 6]()
+![Train 6](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/Documentation/assets/Train%206.png)
