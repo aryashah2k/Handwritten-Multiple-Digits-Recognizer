@@ -64,7 +64,7 @@ The following GIF depicts how the project works covering all its functionalities
 
 | Demo Video Name | View Link|
 |----------|----------|
-| Recognize Digits | <a href="">Click To View</a> |
+| Recognize Digits | <a href="https://drive.google.com/file/d/1muL54i7k2zcA4n8mKOb_0ZGzVeWNTdJE/view?usp=sharing">Click To View</a> |
 | Clear Output | <a href="">Click To View</a> |
 | Feedback Button Functionality | <a href="">Click To View</a> |
 
