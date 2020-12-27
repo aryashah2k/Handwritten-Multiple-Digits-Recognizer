@@ -28,19 +28,19 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 
 ## How To Use The Project?/Project Installation Guide
 
-# Step 1: Clone the Repository to your local system
+### Step 1: Clone the Repository to your local system
 
-# Step 2: Change the directory from current to the project folder location in your system
+### Step 2: Change the directory from current to the project folder location in your system
 
 ![Step 2](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Navigate%20%2B%20Choose%20Directory.png)
 
-# Step 3: Run the following command and wait till al the libraries and dependencies are loaded.
+### Step 3: Run the following command and wait till al the libraries and dependencies are loaded.
 
 ![Step 3](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Run%20File%20%2B%20Output%20Screen.png)
 
-# Step 4: If all goes well, you shall see the GUI Window loaded.
+### Step 4: If all goes well, you shall see the GUI Window loaded.
 
-# Step 5: You've sucessfully got the project running in your local system. Explore it and try all the functionalities!
+### Step 5: You've sucessfully got the project running in your local system. Explore it and try all the functionalities!
 
 You can view the live Demo GIFs in the section below.
 
@@ -66,7 +66,7 @@ The following GIF depicts how the project works covering all its functionalities
 |----------|----------|
 | Recognize Digits | <a href="https://drive.google.com/file/d/1muL54i7k2zcA4n8mKOb_0ZGzVeWNTdJE/view?usp=sharing">Click To View</a> |
 | Clear Output | <a href="https://drive.google.com/file/d/1N39H95xkV0ctLI-ciyt8Plo46UnSDPQF/view?usp=sharing">Click To View</a> |
-| Feedback Button Functionality | <a href="">Click To View</a> |
+| Feedback Button Functionality | <a href="https://drive.google.com/file/d/1ouB6b5WDED_OMSYaLVWosXX6Y0cHNGw1/view?usp=sharing">Click To View</a> |
 
 <!-- CONTRIBUTING -->
 ## How To Contribute?
