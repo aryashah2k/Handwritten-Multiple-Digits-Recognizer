@@ -58,7 +58,7 @@ The following GIF depicts how the project works covering all its functionalities
 
 # Feedback Button Functionality
 
-![GIF 3]()
+![GIF 3](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Feedback%20Functionality%2000_00_00-00_00_30.gif)
 
 ## For HD Video Demonstration, refer the following Google Drive Links:
 
