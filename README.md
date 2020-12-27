@@ -54,9 +54,9 @@ The following GIF depicts how the project works covering all its functionalities
 
 # Clear Output
 
-![GIF 2]()
+![GIF 2](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Clear%20The%20Output%2000_00_00-00_00_30.gif)
 
-#Feedback Button Functionality
+# Feedback Button Functionality
 
 ![GIF 3]()
 
