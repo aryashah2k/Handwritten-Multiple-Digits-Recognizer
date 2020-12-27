@@ -50,7 +50,7 @@ The following GIF depicts how the project works covering all its functionalities
 
 # Draw + Recognize Multiple Handwritten Digits
 
-![GIF 1]()
+![GIF 1](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Recognizing%20Digits%2000_00_00-00_00_30.gif)
 
 # Clear Output
 
@@ -62,7 +62,11 @@ The following GIF depicts how the project works covering all its functionalities
 
 ## For HD Video Demonstration, refer the following Google Drive Links:
 
-
+| Demo Video Name | View Link|
+|----------|----------|
+| Recognize Digits | <a href="">Click To View</a> |
+| Clear Output | <a href="">Click To View</a> |
+| Feedback Button Functionality | <a href="">Click To View</a> |
 
 <!-- CONTRIBUTING -->
 ## How To Contribute?
