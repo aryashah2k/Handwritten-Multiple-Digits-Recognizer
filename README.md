@@ -26,19 +26,17 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 
 
 
-
-
 ## How To Use The Project?/Project Installation Guide
 
 # Step 1: Clone the Repository to your local system
 
 # Step 2: Change the directory from current to the project folder location in your system
 
-![Step 2]()
+![Step 2](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Navigate%20%2B%20Choose%20Directory.png)
 
 # Step 3: Run the following command and wait till al the libraries and dependencies are loaded.
 
-![Step 3]()
+![Step 3](https://github.com/aryashah2k/Handwritten-Multiple-Digits-Recognizer/blob/main/assets/Run%20File%20%2B%20Output%20Screen.png)
 
 # Step 4: If all goes well, you shall see the GUI Window loaded.
 
@@ -50,7 +48,21 @@ You can view the live Demo GIFs in the section below.
 
 The following GIF depicts how the project works covering all its functionalities!
 
-To Be Added Soon...
+# Draw + Recognize Multiple Handwritten Digits
+
+![GIF 1]()
+
+# Clear Output
+
+![GIF 2]()
+
+#Feedback Button Functionality
+
+![GIF 3]()
+
+## For HD Video Demonstration, refer the following Google Drive Links:
+
+
 
 <!-- CONTRIBUTING -->
 ## How To Contribute?
