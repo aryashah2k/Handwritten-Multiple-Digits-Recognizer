@@ -30,7 +30,21 @@ Hello everyone👋, and welcome to this amazing repository which maintains all t
 
 ## How To Use The Project?/Project Installation Guide
 
-To Be Added Soon...
+# Step 1: Clone the Repository to your local system
+
+# Step 2: Change the directory from current to the project folder location in your system
+
+![Step 2]()
+
+# Step 3: Run the following command and wait till al the libraries and dependencies are loaded.
+
+![Step 3]()
+
+# Step 4: If all goes well, you shall see the GUI Window loaded.
+
+# Step 5: You've sucessfully got the project running in your local system. Explore it and try all the functionalities!
+
+You can view the live Demo GIFs in the section below.
 
 ## Project Demonstration
 
