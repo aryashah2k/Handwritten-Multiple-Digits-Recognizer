@@ -89,16 +89,6 @@ Feature Ideas I would Love To See Be Implemented:
 - Transform Into Web App!
 - So much more,....
 
-## Donate / Support / Buy Me A Coffee!
-
-<a href="https://www.patreon.com/bePatron?u=45451225">
-<img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
-</a>	
-
-<a href="https://ko-fi.com/aryashah">
-<img align="left" alt="Arya Shah | Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
-</a>
-<br>
 	
 |Donate/Support|View My Work(In Progress!)|Follow / Connect With Me|Follow / Connect With Me|
 |-----|-----|-----|-----|
